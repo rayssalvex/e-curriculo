@@ -1,0 +1,25 @@
+.habilidades{
+    margin-top: 2rem;
+    gap: 1rem;
+    display: flex;
+}
+.habilidades img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 8px;
+}
+
+.imgs{
+    margin-left: 1rem;
+}
+.commentsContent{
+    background: var(--gray-700);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-top: 1rem;
+    width: 100%;
+    
+}
+.commentsContent p{
+    margin-top: 1rem;
+}
