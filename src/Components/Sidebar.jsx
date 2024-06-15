@@ -15,7 +15,7 @@ export function Sidebar() {
             <a href="https://github.com/rayssalvex">gitHub</a>
             <a href="https://www.linkedin.com/in/rayssa-dos-santos-alves-764ab7296/">Linkedin</a>
             <a href="https://www.instagram.com/rayssalvex/">Instagram</a>
-            
+            <a href="">(32) 99810-7876</a>
         </footer>
 
     </aside>

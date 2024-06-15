@@ -4,7 +4,7 @@ export function Comments() {
   return (
     <div className={styles.comments}>
       <img
-        src="imgs/graduation-hat.png"
+        src="imgs/gra.png"
         alt="icon"
       />
       <div>

@@ -4,7 +4,7 @@ export function Softskills() {
   return (
     <div className={styles.softS}>
       <img
-        src="imgs/competence.png"
+        src="imgs/cptc.png"
         alt="icon"
       />
       <div>
