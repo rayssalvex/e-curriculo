@@ -5,7 +5,7 @@ export function Header() {
     
     <header className={styles.header}>
 
-        <img src='./imgs/pg.png' alt='icon' />
+        <img src='./img/pc.png' alt='icon' />
 
         <strong>E-Curriculo Profissional</strong>
 

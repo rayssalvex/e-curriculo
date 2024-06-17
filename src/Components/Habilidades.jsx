@@ -4,26 +4,26 @@ export function Habilidades (){
     return(
         <div className={styles.habilidades}>
 <img
-        src="./imgs/bc.png"
+        src="./img/dv.png"
         alt="icon"
       />
 
       <div className={styles.imgs}>
       <h3>Conhecimento em:</h3>
       <img
-        src="./imgs/cs.png" alt="linguagem icon"/>
+        src="./img/js.png" alt="linguagem icon"/>
       <img
-        src="./imgs/js.png" alt="linguagem icon"/>
+        src="./img/c.png" alt="linguagem icon"/>
       <img
-       src="./imgs/html.png" alt="icon"/>
+       src="./img/ht.png" alt="icon"/>
       <img
-       src="./imgs/css.png" alt="icon"/>
+       src="./img/cs.png" alt="icon"/>
       <img
-       src="./imgs/db.png" alt="icon"/>
+       src="./img/bd.png" alt="icon"/>
       <img
-       src="./imgs/rct.png" alt="icon"/>
+       src="./img/rt.png" alt="icon"/>
       <img
-       src="./imgs/git.png" alt="icon"/>
+       src="./img/gh.png" alt="icon"/>
       
       </div>
 

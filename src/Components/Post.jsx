@@ -10,7 +10,7 @@ export function Post() {
     <article className={styles.post}>
         <header>
             <div className={styles.author}  >
-                <img className={styles.avatar} src="./imgs/imagem.jpeg" alt="foto" />
+                <img className={styles.avatar} src="./img/img.jpeg" alt="foto" />
             <div className={styles.authorInfo}>
                 <strong >Rayssa dos Santos Alves</strong>
                 <span>Estudante</span>
